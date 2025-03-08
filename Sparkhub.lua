@@ -1,4 +1,4 @@
-local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/Jimmy66676/SparkHub/refs/heads/main/Sparkhub.lua'))()
  
  local player = game:GetService("Players").LocalPlayer
  
